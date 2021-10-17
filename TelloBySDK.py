@@ -29,6 +29,8 @@ def DrawSoundTicks(file):
 fname = 'c:/boom.flac'
 DrawSoundTicks(fname)
 """
+#we are do it
+
 tello = Tello()
 #tello.TIME_BTW_COMMANDS = 4
 
